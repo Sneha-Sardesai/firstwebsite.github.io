@@ -1,0 +1,25 @@
+.main{
+    border: solid black 1px;
+    height: 340px;
+    width: 300px;
+    background-color: beige;
+}
+
+.nameInp{
+    height: 20px;
+    width: 200px;
+    color: blue;
+}
+
+.greetButton{
+    height: 20px;
+    width: 100px;
+    margin-top: 20px;
+    background-color: rgb(157, 157, 222);
+}
+
+.greetButton:hover{
+    height: 25px;
+    width: 210px;
+    background-color: rgb(202, 202, 244);
+}
